@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 140" role="img" aria-label="WOODSPACE Interior &amp; Furniture">
+  <defs>
+    <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b8703f"/>
+      <stop offset="1" stop-color="#7d4522"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(6 14)">
+    <g fill="url(#wood)">
+      <path d="M0 58 L32 58 L58 92 L42 92 Z"/>
+      <path d="M34 58 L48 58 L72 92 L60 92 Z"/>
+      <path d="M90 38 L126 92 L108 92 L90 62 L72 92 L54 92 Z"/>
+      <path d="M90 54 L110 92 L70 92 Z" opacity="0.85"/>
+      <path d="M132 58 L146 58 L120 92 L108 92 Z"/>
+      <path d="M148 58 L180 58 L138 92 L122 92 Z"/>
+    </g>
+    <g fill="#8a4f26">
+      <ellipse cx="93" cy="24" rx="12" ry="9"/>
+      <path d="M103 24 L118 32 L104 30 Z"/>
+      <path d="M82 22 L76 18 L82 25 Z"/>
+      <circle cx="88" cy="21" r="1.4" fill="#fff"/>
+    </g>
+  </g>
+  <text x="205" y="78" font-family="'Playfair Display', Georgia, serif" font-weight="600" font-size="50" letter-spacing="1" fill="#f3ebe2">WOODSPACE</text>
+  <text x="207" y="110" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="14" letter-spacing="6.5" fill="#f3ebe2">INTERIOR &amp; FURNITURE</text>
+</svg>

@@ -1,5 +1,5 @@
 // Change this to the business WhatsApp number (country code + number, digits only).
-const WHATSAPP_NUMBER = "919876543210";
+const WHATSAPP_NUMBER = "919880703268";
 
 document.getElementById("year").textContent = new Date().getFullYear();
 
@@ -35,7 +35,7 @@ form.addEventListener("submit", e => {
   error.hidden = true;
 
   const text =
-    `Hi Sanjay Interiors, I'd like a free consultation.\n\n` +
+    `Hi WOODSPACE, I'd like a free consultation.\n\n` +
     `Name: ${name}\nPhone: ${phone}\nProject: ${type}\n` +
     (message ? `Details: ${message}` : "");
 

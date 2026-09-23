@@ -16,7 +16,7 @@ A free, static, single-page website for an interior design business. No framewor
 ## Deploy free on GitHub Pages
 
 1. Create a free account at https://github.com (choose a username, e.g. `sanjayinteriors`).
-2. Create a new **public** repository named exactly `<username>.github.io` (e.g. `sanjayinteriors.github.io`).
+2. Create a new **public** repository named exactly `<username>.github.io` (e.g. `ragcreations2.github.io`).
 3. Upload all files in this folder to the repository (drag-and-drop in the browser works).
 4. Go to **Settings → Pages**, set Source to **Deploy from a branch**, Branch **main**, folder **/ (root)**, Save.
 5. After 1–2 minutes the site is live worldwide at `https://<username>.github.io` with HTTPS included.
@@ -25,7 +25,7 @@ A free, static, single-page website for an interior design business. No framewor
 
 - **Phone / WhatsApp number**: `919876543210` in `script.js` and `index.html` (search for it).
 - **Email, address, hours**: Contact section of `index.html`.
-- **Site URL**: replace `https://sanjayinteriors.github.io/` in `index.html`, `robots.txt` and `sitemap.xml` with your real URL.
+- **Site URL**: replace `https://ragcreations2.github.io/` in `index.html`, `robots.txt` and `sitemap.xml` with your real URL.
 - **Portfolio photos**: the `.tile-1` … `.tile-6` gradients in `styles.css` – swap for `background-image: url("images/your-photo.jpg")`. Compress photos to under 300 KB first (https://squoosh.app).
 - **Hero / About artwork**: `.room-*` and `.frame-*` blocks – replace with real photos the same way, or keep as decoration.
 - **Social links**: footer of `index.html`.

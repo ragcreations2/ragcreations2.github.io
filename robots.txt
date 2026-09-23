@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sanjayinteriors.github.io/sitemap.xml
+Sitemap: https://ragcreations2.github.io/sitemap.xml
